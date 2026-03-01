@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br> Blockchain development building production ready Solidity contracts, DeFi flows, NFT marketplaces, staking logic, and Web3 backend systems as Freelancer<br>👯 I’m looking to collaborate on<br>Challenging smart contract problems, protocol level design, DeFi mechanics, and NFT trading infrastructure<br>🤝 I’m looking for help with<br>Long term technical collaborations and high impact blockchain products<br>🌱 I’m currently learning<br>Deep smart contract security, edge case driven design, and protocol optimization<br>💬 Ask me about<br>Solidity internals, DeFi architecture, NFT marketplaces, staking systems, and anything EVM based stuff
+🔭 I’m currently working on<br> Blockchain development building production ready Solidity contracts, DeFi flows, NFT marketplaces, staking logic, and Web3 backend systems as Freelancer<br>👯 I’m looking to collaborate on<br>Challenging smart contract problems, protocol level design, DeFi mechanics, and NFT trading infrastructure<br>🤝 I’m looking for help with<br>Long term technical collaborations and high impact blockchain products<br>🌱 I’m currently learning<br>Deep smart contract security, edge case driven design, and protocol optimization<br>💬 Ask me about<br>Solidity internals, DeFi architecture, NFT marketplaces, staking systems, and anything related to EVM
 
 <!---->
 ## 🌐 Socials:
